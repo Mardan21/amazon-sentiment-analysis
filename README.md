@@ -27,8 +27,8 @@ This project uses traditional machine learning techniques to classify 34,000+ Am
 ---
 
 ## 📄 Files
-- `notebooks/sentiment_modeling.ipynb` — end-to-end ML pipeline
-- `report/amazon_sentiment_report.pdf` — polished project report (no class branding)
+- `notebooks/amazon_review_sentiment.ipynb` 
+- `report/amazon_review_sentiment_report.pdf` 
 
 ---
 

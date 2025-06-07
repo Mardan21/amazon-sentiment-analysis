@@ -1,4 +1,4 @@
-# Amazon Sentiment Analysis with Machine Learning
+# Amazon Product Review Sentiment Classifier
 
 This project uses traditional machine learning techniques to classify 34,000+ Amazon product reviews by sentiment (positive, neutral, negative). A complete pipeline was developed for preprocessing, feature engineering, SMOTE oversampling, and model evaluation. The final ensemble model balances performance across classes while avoiding the resource demands of deep learning.
 
